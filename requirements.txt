@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+plotly
+mlxtend
+xgboost
+lightgbm
+nltk
+dtreeviz
+graphviz
+ydata-profiling
+hyperopt
+jupyter

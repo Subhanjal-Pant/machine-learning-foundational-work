@@ -1,0 +1,23 @@
+# Jupyter Notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Python artifacts
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local environment and IDE settings
+.vscode/
+.env
+.venv/
+env/
+venv/
+# Tooling
+.jovianrc
+
+# Large data (see DATA.md)
+*.tsv
+**/deliveries.csv
+**/athlete_events.csv
+**/IMDB Dataset.csv
